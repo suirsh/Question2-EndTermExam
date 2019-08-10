@@ -3,8 +3,7 @@ package main;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.Set;
-import java.util.TreeSet;
+
 
 public class Question2 {
 public static void main(String[] args) {
@@ -20,8 +19,9 @@ public static void main(String[] args) {
 
 }
 public List<Integer> listWithDuplicates(List<Integer> number){
-	List <Integer> L1 = null;
+	List <Integer> L1 = number;
 	//write your code here !! change the L1 to required value
+	
 	return L1 ;
 }
 }
